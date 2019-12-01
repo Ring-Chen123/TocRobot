@@ -3,6 +3,7 @@
 A Linebot based on a finite state machine
 
 Bot名稱 : TocRobot_PLS_say_hi
+Bot ID ： @948dwevd
 
 
 ## Setup
